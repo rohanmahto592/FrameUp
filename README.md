@@ -8,8 +8,8 @@
 - Register and login 
 - User profile section along with total likes and delete option for his/her post.
 - Any user can like the post if he/she is loggedin otherwise he/she  can only play the video and  share the link of the video with anyone.
-- filter the uploads on the basis of genre and title
-- which user's post you liked is shown in the pop up notification.
+- Filter the user's post on the basis of genre and title
+- Which user's post you liked is shown in the pop up notification.
 ---
 ## Installation
 
