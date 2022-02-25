@@ -2,8 +2,8 @@ const mysql = require("mysql");
 const db = mysql.createConnection({
     user:"root",
     host: "localhost",
-    password: "password",
-    port: 3306,
+    password: "******",
+    port: 3305,
     database: "youtube",
     insecureAuth: true
 })
