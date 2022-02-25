@@ -19,9 +19,10 @@
 - Which user's post you liked is shown in the pop up notification.
 ---
 ## `Installation`
-
-- npm i && npm start in both the client and server folder.
 - Setup your own MySql database and change the configuration in Db.js of ConfigDB folder of server folder.
+- For Tables in database, go to server folder and check table folder.
+- npm i && npm start in both the client and server folder.
+
 ## `Screenshot`
 
 
