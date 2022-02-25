@@ -4,6 +4,13 @@
 | Video Demo | https://drive.google.com/file/d/1BrNPpd-gWJPZgDYSMOvD8CeihI8yxJ57/view?usp=sharing
 
 ---
+## `Tech Stack used`
+- Express
+- Node.js
+- Material-ui for user interface
+- React.js
+- Mysql
+---
 ## `Features`
 - Register and login 
 - User profile section along with total likes and delete option for his/her post.
@@ -13,8 +20,8 @@
 ---
 ## Installation
 
-npm i && npm start in both the client and server folder
-
+-npm i && npm start in both the client and server folder
+-Setup your own MySql database and change the configuration in Db.js of ConfigDB folder of server folder.
 ## `Screenshot`
 
 
