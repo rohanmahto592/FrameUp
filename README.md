@@ -15,8 +15,6 @@
 
 npm i && npm start in both the client and server folder
 ```
-
-
 ## `Screenshot`
 
 <img width="1440" alt="Screenshot 2022-02-25 at 10 55 05 PM" src="https://user-images.githubusercontent.com/68339841/155765547-f48cb4e2-c711-4c3f-81e1-91a8609b8325.png">
