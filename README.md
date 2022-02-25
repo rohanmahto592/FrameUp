@@ -18,10 +18,10 @@
 - Filter the user's post on the basis of genre and title
 - Which user's post you liked is shown in the pop up notification.
 ---
-## Installation
+## `Installation`
 
--npm i && npm start in both the client and server folder
--Setup your own MySql database and change the configuration in Db.js of ConfigDB folder of server folder.
+- npm i && npm start in both the client and server folder.
+- Setup your own MySql database and change the configuration in Db.js of ConfigDB folder of server folder.
 ## `Screenshot`
 
 
